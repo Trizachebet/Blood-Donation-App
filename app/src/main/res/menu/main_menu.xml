@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_myfeed"
+        android:title="@string/home"/>
+
+    <item
+        android:id="@+id/sentEmail"
+        android:icon="@drawable/ic_check"
+        android:title="Donors Emailed"/>
+
+
+    <item
+        android:id="@+id/compatible"
+        android:icon="@drawable/ic_compatible"
+        android:title="compatible with me"/>
+
+    <item
+        android:title="@string/blood_groups">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/aplus"
+                    android:title="@string/a_positive"/>
+                <item
+                    android:id="@+id/aminus"
+                    android:title="@string/a_negative"/>
+                <item
+                    android:id="@+id/bplus"
+                    android:title="@string/b_positive"/>
+                <item
+                    android:id="@+id/bminus"
+                    android:title="@string/b_negative"/>
+                <item
+                    android:id="@+id/abplus"
+                    android:title="@string/ab_positive"/>
+                <item
+                    android:id="@+id/abminus"
+                    android:title="@string/ab_negative"/>
+                <item
+                    android:id="@+id/oplus"
+                    android:title="@string/o_positive"/>
+                <item
+                    android:id="@+id/ominus"
+                    android:title="@string/o_negative"/>
+
+            </group>
+        </menu>
+    </item>
+
+
+    <item
+        android:title="@string/actions">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/profile"
+                    android:icon="@drawable/ic_profile"
+                    android:title="@string/profile"/>
+                <item
+                    android:id="@+id/notifications"
+                    android:visible="false"
+                    android:icon="@drawable/ic_notifications"
+                    android:title="@string/notifications"/>
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="@string/log_out"/>
+
+
+
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:title="@string/communicate">
+        <menu>
+            <group
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/ic_about"
+                    android:title="@string/about"/>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/ic_share"
+                    android:title="@string/share"/>
+
+
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

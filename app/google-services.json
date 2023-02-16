@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479624409767",
+    "project_id": "plum-project-e56bb",
+    "storage_bucket": "plum-project-e56bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479624409767:android:c1195de25c726d21722182",
+        "android_client_info": {
+          "package_name": "com.example.bda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479624409767-sql1ddnhv9ijg2u3nfu44hd63ktp96a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bda",
+            "certificate_hash": "fc087588103aea5d7ed1d7959a33f5df0b8b7610"
+          }
+        },
+        {
+          "client_id": "479624409767-hg6p4m549kelbv5jqdadblj7t3sg3gj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsksMvjixuzIhpCqVmRYGNII-bN6DYKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479624409767-hg6p4m549kelbv5jqdadblj7t3sg3gj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

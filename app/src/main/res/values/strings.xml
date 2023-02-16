@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">BDA</string>
+    <string name="did_you_know_blood_donation_is_safe_and_saves_life">Did you know blood donation is safe and saves life</string>
+    <string name="enter_email">Enter Email</string>
+
+    <string name="enter_phone_number">Enter Phone Number</string>
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="sign_in_now">Sign In Now</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account?Sign up now</string>
+    <string name="donor_registration">Donor Registration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_id_number">Enter ID Number</string>
+    <string name="enter_password">Enter Password</string>
+
+
+    <string name="please_enter_full_name">Please Enter Full Name</string>
+    <string name="blood_transfusion_app">Blood Transfusion App</string>
+    <string name="help_to_save_a_life_donate_blood">Help to save a life:Donate blood</string>
+    <string name="briefly_describe_yourself">Briefly describe yourself</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="view_profile">VIEW PROFILE</string>
+    <string name="have_an_account_sign_in">Have an account?Sign in</string>
+    <string name="log_out">Log Out</string>
+    <string name="type">type</string>
+    <string name="blood_group">Blood group</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="full_name">Full name</string>
+    <string name="donors_email">Donors Email</string>
+    <string name="home">Home</string>
+    <string name="blood_groups">Blood Groups</string>
+    <string name="o_negative">O negative</string>
+    <string name="o_positive">O positive</string>
+    <string name="ab_negative">AB negative</string>
+    <string name="ab_positive">AB positive</string>
+    <string name="b_negative">B negative</string>
+    <string name="b_positive">B positive</string>
+    <string name="a_negative">A negative</string>
+    <string name="a_positive">A positive</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="actions">Actions</string>
+    <string name="communicate">Communicate</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="back">Back</string>
+    <string name="compatible">compatible</string>
+    <string name="recipient_registration">Recipient Registration</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="blood_donation_app">Blood Donation App</string>
+
+    <string-array name="bloodgroups">
+        <item>Select your blood group</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+
+    </string-array>
+</resources>
